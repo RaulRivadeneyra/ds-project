@@ -1,7 +1,6 @@
 # Manual de usuario
 
 ## Prerequisitos
-- Tener Java Development Kit (JDK)
 - Descargar Processing (https://processing.org/download/)
 
 ## Ejecutar
